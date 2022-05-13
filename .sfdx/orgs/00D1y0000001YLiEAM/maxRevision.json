@@ -1,0 +1,29 @@
+{
+  "serverMaxRevisionCounter": 6,
+  "sourceMembers": {
+    "FieldRestrictionRule__Rule13baa889edebe082122830bf35d03d8b": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": null,
+      "memberType": "FieldRestrictionRule",
+      "isNameObsolete": false
+    },
+    "FieldRestrictionRule__Rule42ed79c41d148372566c86eff4f465ee": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": null,
+      "memberType": "FieldRestrictionRule",
+      "isNameObsolete": false
+    },
+    "CustomLabel__pctxd_customlabel1": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "CustomLabel",
+      "isNameObsolete": false
+    },
+    "CustomLabel__pctxd_customlabel2": {
+      "serverRevisionCounter": 6,
+      "lastRetrievedFromServer": 6,
+      "memberType": "CustomLabel",
+      "isNameObsolete": false
+    }
+  }
+}

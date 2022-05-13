@@ -1,0 +1,21 @@
+{
+  "orgName": "DXCoreDataCenter",
+  "edition": "Enterprise",
+  "hasSampleData": true,
+  "language": "en_US",
+  "features": [ 
+    "ANALYTICSAPPEMBEDDED", "SalesWave","ServiceWave", "COMMUNITIES"
+  ],
+  "settings": {
+    "analyticsSettings": {
+      "enableInsights": true
+    },
+    "languageSettings": {
+      "enableEndUserLanguages": true,
+      "enableTranslationWorkbench": true
+    }, 
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    }
+  }
+}
